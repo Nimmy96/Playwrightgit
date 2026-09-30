@@ -1,0 +1,3 @@
+selectByLabel Red
+selectByValue Yellow
+selectByIndex Green
